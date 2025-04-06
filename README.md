@@ -1,7 +1,7 @@
 
 
-# 👋 I'm Bharanidharan S
-## 💫 About Me:
+ #
+# 💫 About Me:
 🔭 I’m currently doing my bacholore's deegere of computer science<br>🌱 I’m currently learning restAPI's<br>👯 I’m looking to collaborate on backend projects<br>📩 reach me : bharanidharan0578@gmail.com<br>💬 Ask me about technology and personal development<br>⚡ Fun fact: I run a youtube channel
 
 
